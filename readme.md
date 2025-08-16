@@ -7,6 +7,6 @@ This report presents a detailed methodology for EmoNet-XAI, the first-place solu
 ![EcoNet-XAI](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F19186184%2Fee478e95a952dbc597d112d1442114d0%2FEmoNet-XAI.png?generation=1755324575672294&alt=media)
 
 ## Notebooks and Weights
-Trainng Notebook:
+Trainng Notebook: /Inference Notebook.ipynb
 Inference Notebook:
 Weights: 
