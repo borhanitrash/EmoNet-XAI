@@ -6,14 +6,21 @@ This report presents a detailed methodology for EmoNet-XAI, the first-place solu
 ## EcoNet-XAI Framework
 ![EcoNet-XAI](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F19186184%2Fee478e95a952dbc597d112d1442114d0%2FEmoNet-XAI.png?generation=1755324575672294&alt=media)
 
+## System Paper
+
+- **Title:** EmoNet-XAI: An Explainable First-Place Approach to Transformer-based Emotion Classification  
+- **Author:** Md. Abdur Rahman  
+- **Link:** [Download Paper](https://drive.google.com/file/d/1bV9UEkcQVbX8om2laIepUPrJgzaZ2KA7/view?usp=sharing)
+
 ## Notebooks and Weights
 
 - **Training Notebook:**  
-  https://github.com/borhanitrash/EmoNet-XAI/blob/main/Training%20Notebook.ipynb
+  [Open Notebook](https://github.com/borhanitrash/EmoNet-XAI/blob/main/Training%20Notebook.ipynb)
 
 - **Inference Notebook:**  
-  https://github.com/borhanitrash/EmoNet-XAI/blob/main/Inference%20Notebook.ipynb
+  [Open Notebook](https://github.com/borhanitrash/EmoNet-XAI/blob/main/Inference%20Notebook.ipynb)
 
 - **Weights:**  
-  https://www.kaggle.com/datasets/borhanitrash/model-weights
+  [Download Weights](https://www.kaggle.com/datasets/borhanitrash/model-weights)
+
 
