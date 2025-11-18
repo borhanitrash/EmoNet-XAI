@@ -10,7 +10,7 @@ This report presents a detailed methodology for EmoNet-XAI, the first-place solu
 
 - **Title:** EmoNet-XAI: An Explainable First-Place Approach to Transformer-based Emotion Classification  
 - **Author:** Md. Abdur Rahman  
-- **Link:** [Download Paper](https://drive.google.com/file/d/1bV9UEkcQVbX8om2laIepUPrJgzaZ2KA7/view?usp=sharing)
+- **Link:** [Download Paper](https://github.com/borhanitrash/EmoNet-XAI/blob/main/Fragments_of_Feeling.pdf)
 
 ## Notebooks and Weights
 
